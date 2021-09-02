@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Creative coding
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Google
-- 📫 How to reach me ... Harishvenkatrsh0903@gmail.com
+- 📫 How to reach me ... harishvenkatesh0903@gmail.com
 
 
 
